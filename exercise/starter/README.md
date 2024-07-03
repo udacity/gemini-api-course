@@ -1,3 +1,3 @@
 # Purpose of this Folder
 
-This folder should contain the starter code and instructions for the exercise.
+This folder contains the starter notebook for this exercise.

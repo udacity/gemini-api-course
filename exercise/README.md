@@ -1,22 +1,17 @@
 # Purpose of This Directory
 
-This directory should contain any files and instructions necessary for exercises created for this lesson.
+This directory contains both the starter and solution code for the final exercise of the Gemini API by Google course
 
 ## Folder Structure
 
-Each exercise should be contained in its own folder using the naming convention of `concept#-name-of-concept`. See example below:
+When completing the exercise, open the notebook in the `starter` directory. When finished, you can view the solution in the `solution` directory.
 
 ```
-exercises
-    |_ concept1-hello-world
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ concept2-foo-bar
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ README.md
+├── README.md
+├── solution
+│   ├── README.md
+│   └── Solutions_Gemini_Final_Exercise.ipynb
+└── starter
+    ├── Empty_Gemini_Final_Exercise.ipynb
+    └── README.md
 ```
